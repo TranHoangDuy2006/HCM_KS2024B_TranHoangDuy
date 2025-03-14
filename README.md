@@ -1,2 +1,0 @@
-# HCM_KS2024B_TranHoangDuy
-HACKATHON
